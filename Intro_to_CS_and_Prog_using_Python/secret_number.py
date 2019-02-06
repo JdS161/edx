@@ -19,3 +19,8 @@ while abs(ans**2 -x) >= epsilon:
     \nEnter 'l' to indicate the guess is too low. 
     \nEnter 'c' to indicate I guessed correctly.
     
+    
+    Sorry, I did not understand your input.
+    
+    Game over. Your secret number was:
+    
